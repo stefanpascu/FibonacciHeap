@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588093128 source:c:\facultate\poo-tema1_gr.131_pascu_stefan-liviu_anul-i_informatica\listacirculara\fibonacciheap\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+	<vector>
+
